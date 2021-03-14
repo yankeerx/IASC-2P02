@@ -10,7 +10,7 @@ Explore my Interavtive Study Guide [here](InteractiveStudyGuide.html).
 
 ## Interactive Genealogy
 
-Explore my Interactive Genealogy [[here]](2P02_Interactive Geneaology.html).
+Explore my Interactive Genealogy [here](2P02_Interactive Geneaology.html).
 
 
 # Speculative Fiction
